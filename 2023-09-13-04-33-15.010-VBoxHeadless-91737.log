@@ -1,0 +1,12 @@
+Log created: 2023-09-13T04:33:15.108288000Z
+Process ID:  91737 (0x16659)
+Parent PID:  2720 (0xaa0)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: swarm_swarm-2_1694210276691_27224
+Arg[3]: --startvm
+Arg[4]: 175a1a97-03a5-4037-aa29-099865725160
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
